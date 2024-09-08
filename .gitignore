@@ -1,0 +1,16 @@
+# Python
+*.pyc
+__pycache__/
+
+# Django
+*.sqlite3
+/media/
+/staticfiles/
+
+# Environment variables
+.env
+
+# Docker
+*.log
+*.pid
+app_env/
