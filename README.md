@@ -14,7 +14,7 @@ Docker and Docker Compose installed on your machine.
 Clone the repository from GitHub and navigate to the project directory:
 
         git clone https://github.com/Oleksii-Oliinyk/lunch_voting_app.git
-        cd YourRepository
+        cd lunch_voting_app
 
 2. Create a .env File
 
